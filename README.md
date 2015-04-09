@@ -6,6 +6,8 @@ Parse and stringify mdns service types
 npm install multicast-dns-service-types
 ```
 
+[![build status](http://img.shields.io/travis/mafintosh/multicast-dns-service-types.svg?style=flat)](http://travis-ci.org/mafintosh/multicast-dns-service-types)
+
 ## Usage
 
 ``` js
