@@ -1,4 +1,4 @@
-# multicast-dns-types
+# multicast-dns-service-types
 
 Parse and stringify mdns service types
 
