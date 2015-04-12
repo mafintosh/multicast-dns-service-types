@@ -1,6 +1,6 @@
 {
   "name": "multicast-dns-service-types",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Parse and stringify mdns service types",
   "main": "index.js",
   "dependencies": {},
