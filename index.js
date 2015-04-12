@@ -15,7 +15,7 @@ exports.parse = function (str) {
   var parts = str.split('.')
 
   for (var i = 0; i < parts.length; i++) {
-    if (parts[i][0] !== '_') return null
+    if (parts[i][0] !== '_') continue
     parts[i] = parts[i].slice(1)
   }
 
